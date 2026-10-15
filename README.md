@@ -1,5 +1,3 @@
-![Clever Cloud logo](/assets/clever-cloud-logo.png)
-
 # Khoj Test Application
 
 [![Clever Cloud - PaaS](https://img.shields.io/badge/Clever%20Cloud-PaaS-orange)](https://clever-cloud.com)
